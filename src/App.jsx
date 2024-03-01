@@ -62,7 +62,7 @@ function App() {
             Papers
           </Link>
           <Link to="conferences">
-            Conferences
+            Conferences 
           </Link>
           
           <Link to="/experience">
